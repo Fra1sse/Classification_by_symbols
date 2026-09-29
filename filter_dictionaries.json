@@ -1,0 +1,638 @@
+{
+  "1": {
+    "alexandrian_letter": {
+      "11": {
+        "description": null,
+        "mean_activation": 0.8354844450950623,
+        "mean_contribution": 1.798295497894287
+      },
+      "25": {
+        "description": "наличие круга",
+        "mean_activation": 0.7353422045707703,
+        "mean_contribution": 1.456660509109497
+      },
+      "40": {
+        "description": null,
+        "mean_activation": 0.42132410407066345,
+        "mean_contribution": 1.2523311376571655
+      },
+      "49": {
+        "description": "тонкие линии",
+        "mean_activation": 0.6351104974746704,
+        "mean_contribution": 1.238376498222351
+      },
+      "38": {
+        "description": "прямые линии",
+        "mean_activation": 0.7290014624595642,
+        "mean_contribution": 1.1478925943374634
+      },
+      "60": {
+        "description": "наличие нескольких символов в одном избражении(ошибка при создании датасета)",
+        "mean_activation": 0.590548574924469,
+        "mean_contribution": 0.996780276298523
+      },
+      "63": {
+        "description": "линия под углом 45 градусов",
+        "mean_activation": 0.8940514326095581,
+        "mean_contribution": 0.8962550163269043
+      },
+      "3": {
+        "description": "круговые штрихи",
+        "mean_activation": 0.3626372814178467,
+        "mean_contribution": 0.8463693261146545
+      },
+      "46": {
+        "description": null,
+        "mean_activation": 1.0738252401351929,
+        "mean_contribution": 0.8389936089515686
+      },
+      "30": {
+        "description": null,
+        "mean_activation": 0.6221767067909241,
+        "mean_contribution": 0.7743181586265564
+      }
+    },
+    "vologodchina_hilarion": {
+      "17": {
+        "description": "прямые горизонтальная и вертикальная линии",
+        "mean_activation": 0.5906782746315002,
+        "mean_contribution": 3.23129940032959
+      },
+      "20": {
+        "description": "символ похож на буквы 'И' или 'Н'",
+        "mean_activation": 0.30849674344062805,
+        "mean_contribution": 2.856797695159912
+      },
+      "58": {
+        "description": "символ похож на буквы 'И' или 'Н'",
+        "mean_activation": 0.6427779793739319,
+        "mean_contribution": 2.6878058910369873
+      },
+      "61": {
+        "description": "длинный символ в длину или в ширину, наличие прямой или чуть закругленной линии",
+        "mean_activation": 0.9756041169166565,
+        "mean_contribution": 2.0611419677734375
+      },
+      "57": {
+        "description": "прямые горизонтальная и вертикальная линии",
+        "mean_activation": 0.46981582045555115,
+        "mean_contribution": 1.8271417617797852
+      },
+      "14": {
+        "description": "символ похож на буквы 'И' или 'Н'",
+        "mean_activation": 0.39297184348106384,
+        "mean_contribution": 1.6434725522994995
+      },
+      "29": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.3827928900718689,
+        "mean_contribution": 1.4654461145401
+      },
+      "21": {
+        "description": "символ похож на букву 'Ъ'",
+        "mean_activation": 0.6175108551979065,
+        "mean_contribution": 1.404667615890503
+      },
+      "19": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.4967590570449829,
+        "mean_contribution": 1.3568085432052612
+      },
+      "16": {
+        "description": "символ похож на букву 'Ъ'",
+        "mean_activation": 0.33909520506858826,
+        "mean_contribution": 0.8734811544418335
+      }
+    }
+  },
+  "2": {
+    "alexandrian_letter": {
+      "26": {
+        "description": "наличие круга",
+        "mean_activation": 0.42448994517326355,
+        "mean_contribution": 0.4362047612667084
+      },
+      "11": {
+        "description": "наличие круга",
+        "mean_activation": 0.8588106632232666,
+        "mean_contribution": 0.32469919323921204
+      },
+      "49": {
+        "description": "наличие круга",
+        "mean_activation": 0.6433852910995483,
+        "mean_contribution": 0.2915678024291992
+      },
+      "10": {
+        "description": "наличие круга",
+        "mean_activation": 0.5236009359359741,
+        "mean_contribution": 0.28440022468566895
+      },
+      "41": {
+        "description": "наличие круга",
+        "mean_activation": 0.533907949924469,
+        "mean_contribution": 0.24431657791137695
+      },
+      "58": {
+        "description": "длинная горизонтальная линия",
+        "mean_activation": 0.5763428807258606,
+        "mean_contribution": 0.20643524825572968
+      },
+      "60": {
+        "description": "наличие круга",
+        "mean_activation": 0.7149010300636292,
+        "mean_contribution": 0.1947682797908783
+      },
+      "29": {
+        "description": "наличие круга",
+        "mean_activation": 0.3580642640590668,
+        "mean_contribution": 0.1811104267835617
+      },
+      "35": {
+        "description": "наличие круга",
+        "mean_activation": 0.273099422454834,
+        "mean_contribution": 0.15577928721904755
+      },
+      "46": {
+        "description": "наличие прямой линии",
+        "mean_activation": 0.946488082408905,
+        "mean_contribution": 0.13428854942321777
+      }
+    },
+    "vologodchina_hilarion": {
+      "61": {
+        "description": "длинная горизонтальная линия",
+        "mean_activation": 0.9812160730361938,
+        "mean_contribution": 7.308132171630859
+      },
+      "21": {
+        "description": "один из символов похож на букву 'Е'",
+        "mean_activation": 0.6039298176765442,
+        "mean_contribution": 4.464505195617676
+      },
+      "4": {
+        "description": "один из символов похож на букву 'Е'",
+        "mean_activation": 0.6165645122528076,
+        "mean_contribution": 4.364671230316162
+      },
+      "48": {
+        "description": "один из символов похож на букву 'Е'",
+        "mean_activation": 0.38955092430114746,
+        "mean_contribution": 4.2392578125
+      },
+      "29": {
+        "description": null,
+        "mean_activation": 0.3364493250846863,
+        "mean_contribution": 1.5247559547424316
+      },
+      "56": {
+        "description": "один из символов похож на отзеркаленную цифру '9'",
+        "mean_activation": 0.27443861961364746,
+        "mean_contribution": 1.4663848876953125
+      },
+      "39": {
+        "description": "толстые штрихи",
+        "mean_activation": 0.6470008492469788,
+        "mean_contribution": 1.1768983602523804
+      },
+      "36": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.5431130528450012,
+        "mean_contribution": 1.1080515384674072
+      },
+      "17": {
+        "description": "один из символов похож на букву 'Е'",
+        "mean_activation": 0.5223639011383057,
+        "mean_contribution": 0.9011005759239197
+      },
+      "22": {
+        "description": "один из символов похож на букву 'Е'",
+        "mean_activation": 0.5119897127151489,
+        "mean_contribution": 0.8243371248245239
+      }
+    }
+  },
+  "3": {
+    "alexandrian_letter": {
+      "51": {
+        "description": null,
+        "mean_activation": 0.729308545589447,
+        "mean_contribution": 2.519129991531372
+      },
+      "19": {
+        "description": null,
+        "mean_activation": 0.498759388923645,
+        "mean_contribution": 2.4775209426879883
+      },
+      "53": {
+        "description": "пустой правый символ(ошибка при создании датасета)",
+        "mean_activation": 0.41339099407196045,
+        "mean_contribution": 1.4747048616409302
+      },
+      "45": {
+        "description": null,
+        "mean_activation": 0.4675142765045166,
+        "mean_contribution": 0.8866861462593079
+      },
+      "39": {
+        "description": null,
+        "mean_activation": 0.7407086491584778,
+        "mean_contribution": 0.6796901226043701
+      },
+      "47": {
+        "description": null,
+        "mean_activation": 0.7043350338935852,
+        "mean_contribution": 0.604472815990448
+      },
+      "22": {
+        "description": null,
+        "mean_activation": 0.4815515875816345,
+        "mean_contribution": 0.5406455993652344
+      },
+      "0": {
+        "description": "толстые штрихи",
+        "mean_activation": 0.4091888964176178,
+        "mean_contribution": 0.48394256830215454
+      },
+      "56": {
+        "description": null,
+        "mean_activation": 0.2567141354084015,
+        "mean_contribution": 0.47528716921806335
+      },
+      "26": {
+        "description": "символ похож на букву 'Ъ'",
+        "mean_activation": 0.4230150878429413,
+        "mean_contribution": 0.4629315137863159
+      }
+    },
+    "vologodchina_hilarion": {
+      "17": {
+        "description": "некоторые символы похожи на букву 'Е' или отзеркаленную '9'",
+        "mean_activation": 0.400884747505188,
+        "mean_contribution": 2.4225385189056396
+      },
+      "38": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.733885645866394,
+        "mean_contribution": 2.148911714553833
+      },
+      "25": {
+        "description": "некоторые символы похожи на букву 'Е' или отзеркаленную '9'",
+        "mean_activation": 0.6709423661231995,
+        "mean_contribution": 1.8746508359909058
+      },
+      "49": {
+        "description": "кучковатые штрики как у букв 'Х' или 'Ж'",
+        "mean_activation": 0.6311352849006653,
+        "mean_contribution": 1.8066326379776
+      },
+      "61": {
+        "description": "длинная горизонтальная линия",
+        "mean_activation": 0.9840156435966492,
+        "mean_contribution": 1.8053034543991089
+      },
+      "29": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.3714393973350525,
+        "mean_contribution": 1.718010425567627
+      },
+      "48": {
+        "description": "некоторые символы похожи на букву 'Е' или отзеркаленную '9'",
+        "mean_activation": 0.4103136658668518,
+        "mean_contribution": 1.6353816986083984
+      },
+      "43": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.7215536832809448,
+        "mean_contribution": 1.5936492681503296
+      },
+      "20": {
+        "description": "некоторые символы похожи на букву 'Е' или отзеркаленную '9'",
+        "mean_activation": 0.14469042420387268,
+        "mean_contribution": 1.2685868740081787
+      },
+      "60": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.6028289794921875,
+        "mean_contribution": 1.076161503791809
+      }
+    }
+  },
+  "5": {
+    "alexandrian_letter": {
+      "0": {
+        "description": null,
+        "mean_activation": 0.465461403131485,
+        "mean_contribution": 0.9427971839904785
+      },
+      "33": {
+        "description": "некоторые символы похожи на букву 'о'",
+        "mean_activation": 0.1496429145336151,
+        "mean_contribution": 0.8982134461402893
+      },
+      "57": {
+        "description": "некоторые символы похожи на букву 'В'",
+        "mean_activation": 0.3519532382488251,
+        "mean_contribution": 0.7848896980285645
+      },
+      "55": {
+        "description": null,
+        "mean_activation": 0.49354079365730286,
+        "mean_contribution": 0.665229082107544
+      },
+      "52": {
+        "description": null,
+        "mean_activation": 0.32732507586479187,
+        "mean_contribution": 0.6499509811401367
+      },
+      "58": {
+        "description": null,
+        "mean_activation": 0.6259031891822815,
+        "mean_contribution": 0.5929993391036987
+      },
+      "11": {
+        "description": null,
+        "mean_activation": 0.8080114722251892,
+        "mean_contribution": 0.5764121413230896
+      },
+      "41": {
+        "description": null,
+        "mean_activation": 0.5519573092460632,
+        "mean_contribution": 0.5391868352890015
+      },
+      "62": {
+        "description": null,
+        "mean_activation": 0.19617536664009094,
+        "mean_contribution": 0.5311148166656494
+      },
+      "45": {
+        "description": "некоторые символы похожи на букву 'Ъ'",
+        "mean_activation": 0.5173842906951904,
+        "mean_contribution": 0.5135836601257324
+      }
+    },
+    "vologodchina_hilarion": {
+      "60": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.7156108617782593,
+        "mean_contribution": 1.3713301420211792
+      },
+      "51": {
+        "description": "некоторые символы похожи на буквы 'И' или 'Н'",
+        "mean_activation": 0.7130207419395447,
+        "mean_contribution": 0.8930018544197083
+      },
+      "50": {
+        "description": "некоторые символы похожи на буквы 'И' или 'Н'",
+        "mean_activation": 1.051140546798706,
+        "mean_contribution": 0.8908483386039734
+      },
+      "21": {
+        "description": "кучковатые штрики как у букв 'Х' или 'Ж'",
+        "mean_activation": 0.7134746313095093,
+        "mean_contribution": 0.6911604404449463
+      },
+      "49": {
+        "description": "некоторые символы похожи на букву 'Е' или отзеркаленную '9'",
+        "mean_activation": 0.5733609795570374,
+        "mean_contribution": 0.627481997013092
+      },
+      "17": {
+        "description": "некоторые символы похожи на букву 'Е' или отзеркаленную '9'",
+        "mean_activation": 0.3397091031074524,
+        "mean_contribution": 0.5600510239601135
+      },
+      "29": {
+        "description": "некоторые символы похожи на букву 'Е' или отзеркаленную '9'",
+        "mean_activation": 0.3221597373485565,
+        "mean_contribution": 0.5407982468605042
+      },
+      "25": {
+        "description": "некоторые символы похожи на буквы 'И' или 'Н'",
+        "mean_activation": 0.7155756950378418,
+        "mean_contribution": 0.5057395696640015
+      },
+      "37": {
+        "description": "кучковатые штрики как у букв 'Х' или 'Ж'",
+        "mean_activation": 0.3353263735771179,
+        "mean_contribution": 0.4763706624507904
+      },
+      "48": {
+        "description": "некоторые символы похожи на букву 'Е' или отзеркаленную '9'",
+        "mean_activation": 0.36517366766929626,
+        "mean_contribution": 0.4376743733882904
+      }
+    }
+  },
+  "8": {
+    "alexandrian_letter": {
+      "40": {
+        "description": "некоторые символы похожи на перевернутую букву 'Ш'",
+        "mean_activation": 0.4276677072048187,
+        "mean_contribution": 3.102318525314331
+      },
+      "63": {
+        "description": "некоторые символы похожи на букву 'Ъ'",
+        "mean_activation": 0.8777487874031067,
+        "mean_contribution": 0.9860162138938904
+      },
+      "26": {
+        "description": null,
+        "mean_activation": 0.3383549451828003,
+        "mean_contribution": 0.969540536403656
+      },
+      "52": {
+        "description": null,
+        "mean_activation": 0.3284997344017029,
+        "mean_contribution": 0.8387439846992493
+      },
+      "24": {
+        "description": "некоторые символы похожи на буквы 'П' или 'Н'",
+        "mean_activation": 0.16106075048446655,
+        "mean_contribution": 0.5357086658477783
+      },
+      "57": {
+        "description": null,
+        "mean_activation": 0.3042946755886078,
+        "mean_contribution": 0.5245972275733948
+      },
+      "30": {
+        "description": null,
+        "mean_activation": 0.670211136341095,
+        "mean_contribution": 0.5087607502937317
+      },
+      "3": {
+        "description": null,
+        "mean_activation": 0.18924152851104736,
+        "mean_contribution": 0.5013761520385742
+      },
+      "33": {
+        "description": null,
+        "mean_activation": 0.19443033635616302,
+        "mean_contribution": 0.40925759077072144
+      },
+      "7": {
+        "description": "некоторые символы похожи на буквы 'П' или 'Н'",
+        "mean_activation": 0.2028249204158783,
+        "mean_contribution": 0.4084567427635193
+      }
+    },
+    "vologodchina_hilarion": {
+      "51": {
+        "description": null,
+        "mean_activation": 0.7485173940658569,
+        "mean_contribution": 0.9363307356834412
+      },
+      "60": {
+        "description": "кучковатые штрики как у букв 'Х' или 'Ж'",
+        "mean_activation": 0.6201527118682861,
+        "mean_contribution": 0.9059804677963257
+      },
+      "50": {
+        "description": "некоторые символы похожи на буквы 'И' или 'Н'",
+        "mean_activation": 1.0242773294448853,
+        "mean_contribution": 0.49535444378852844
+      },
+      "25": {
+        "description": null,
+        "mean_activation": 0.650539219379425,
+        "mean_contribution": 0.4158075749874115
+      },
+      "21": {
+        "description": null,
+        "mean_activation": 0.6809639930725098,
+        "mean_contribution": 0.285290390253067
+      },
+      "49": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.547266960144043,
+        "mean_contribution": 0.25045764446258545
+      },
+      "38": {
+        "description": null,
+        "mean_activation": 0.6741681694984436,
+        "mean_contribution": 0.20228338241577148
+      },
+      "11": {
+        "description": null,
+        "mean_activation": 0.8549175262451172,
+        "mean_contribution": 0.18428312242031097
+      },
+      "4": {
+        "description": "некоторые символы похожи на буквы 'И' или 'Н'",
+        "mean_activation": 0.5739167332649231,
+        "mean_contribution": 0.17267626523971558
+      },
+      "37": {
+        "description": null,
+        "mean_activation": 0.3392440676689148,
+        "mean_contribution": 0.1725868582725525
+      }
+    }
+  },
+  "16": {
+    "alexandrian_letter": {
+      "19": {
+        "description": null,
+        "mean_activation": 0.4143626391887665,
+        "mean_contribution": 0.8562350869178772
+      },
+      "10": {
+        "description": null,
+        "mean_activation": 0.5238596200942993,
+        "mean_contribution": 0.8029093146324158
+      },
+      "11": {
+        "description": null,
+        "mean_activation": 0.7841437458992004,
+        "mean_contribution": 0.6392071843147278
+      },
+      "2": {
+        "description": null,
+        "mean_activation": 0.2296333760023117,
+        "mean_contribution": 0.5105852484703064
+      },
+      "30": {
+        "description": null,
+        "mean_activation": 0.6140154600143433,
+        "mean_contribution": 0.384904682636261
+      },
+      "61": {
+        "description": "некоторые символы похожи на перевернутую букву 'Ш'",
+        "mean_activation": 0.9947240352630615,
+        "mean_contribution": 0.36819198727607727
+      },
+      "8": {
+        "description": null,
+        "mean_activation": 1.0585027933120728,
+        "mean_contribution": 0.3414188027381897
+      },
+      "58": {
+        "description": null,
+        "mean_activation": 0.587759256362915,
+        "mean_contribution": 0.33908408880233765
+      },
+      "21": {
+        "description": "некоторые символы похожи на буквы 'И' или 'Н'",
+        "mean_activation": 0.5565832853317261,
+        "mean_contribution": 0.30625754594802856
+      },
+      "1": {
+        "description": null,
+        "mean_activation": 0.3795732855796814,
+        "mean_contribution": 0.3031541407108307
+      }
+    },
+    "vologodchina_hilarion": {
+      "39": {
+        "description": "некоторые символы похожи на перевернутую букву 'Ш'",
+        "mean_activation": 0.6921762228012085,
+        "mean_contribution": 0.9559453725814819
+      },
+      "40": {
+        "description": null,
+        "mean_activation": 0.2936689853668213,
+        "mean_contribution": 0.8559585809707642
+      },
+      "49": {
+        "description": null,
+        "mean_activation": 0.5003139972686768,
+        "mean_contribution": 0.752987265586853
+      },
+      "47": {
+        "description": null,
+        "mean_activation": 0.642586886882782,
+        "mean_contribution": 0.7444905042648315
+      },
+      "51": {
+        "description": null,
+        "mean_activation": 0.6796057224273682,
+        "mean_contribution": 0.6999908685684204
+      },
+      "20": {
+        "description": null,
+        "mean_activation": 0.08691411465406418,
+        "mean_contribution": 0.6581148505210876
+      },
+      "56": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.14866262674331665,
+        "mean_contribution": 0.6138753890991211
+      },
+      "55": {
+        "description": null,
+        "mean_activation": 0.4645541310310364,
+        "mean_contribution": 0.6038911938667297
+      },
+      "52": {
+        "description": "несколько символов в одном изображении(ошибка при создании датасета)",
+        "mean_activation": 0.25236159563064575,
+        "mean_contribution": 0.5900302529335022
+      },
+      "32": {
+        "description": "некоторые символы похожи на перевернутую букву 'Ш'",
+        "mean_activation": 0.17960751056671143,
+        "mean_contribution": 0.41342893242836
+      }
+    }
+  }
+}
